@@ -174,8 +174,8 @@ class Jogador:
 #
 # -------------------------------------------------------------------------------
 class tabuleiro:
-    ArrayPeçasParteDeCima = []  # lista de Peças que contiene la tabuleiro
-    ArrayPeçasParteDebaixo = []  # lista de Peças que contiene la tabuleiro
+    ArrayPeçasParteDeCima = []  
+    ArrayPeçasParteDebaixo = []  
     ParteDebaixo = 0
     ParteDeCima = 0
 
